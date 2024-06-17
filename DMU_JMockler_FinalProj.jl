@@ -16,6 +16,8 @@ import ColorSchemes
 
 # Add a github comment
 
+# Make another comment
+
 mutable struct Traffic_model <: AbstractEnv
     s::SVector{3, Int}
 end
